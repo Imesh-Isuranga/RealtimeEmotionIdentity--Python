@@ -3,7 +3,6 @@ import face_recognition
 import cv2
 
 #Get the webcam #0 (the default one,1,2 etc means additional attached cams)
-
 webcam_video_stream = cv2.VideoCapture(0)
 
 
