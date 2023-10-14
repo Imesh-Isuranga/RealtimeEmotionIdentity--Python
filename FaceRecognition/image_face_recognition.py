@@ -1,7 +1,7 @@
 #importing require libraries
 import face_recognition
 import cv2
-import os
+
 
 #loading the image to detect
 original_image = cv2.imread('../Images/1.jpg')
